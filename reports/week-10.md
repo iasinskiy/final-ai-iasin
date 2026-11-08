@@ -38,3 +38,8 @@
 
 - Create Python virtual environment (`.venv`) and configure project dependencies in `requirements.txt`.
 - Set up OpenAI API key access and create basic script for `gpt-4o-mini` API interaction.
+
+## Important Commits
+
+- Commit hash: `cae85b9`
+- Description: Set up repository remotes, finalize proposal.md, and complete week 10 progress report.
