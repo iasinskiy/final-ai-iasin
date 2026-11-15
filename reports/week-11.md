@@ -37,4 +37,9 @@
 ## Next Week
 
 - Create mock JSON datasets for customer orders (`data/orders.json`) and store FAQs (`data/faq.json`).
-- Define Pydantic models for strict input/output validation of tool arguments and responses.
+- Define Pydantic models for strict input/output validation of tool arguments and responses.\
+
+## Important Commits
+
+- Commit hash: `57d17e3`
+- Description: Set up Python environment, OpenRouter integration, initial SupportAgent prototype, and Week 11 report.
