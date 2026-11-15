@@ -67,7 +67,7 @@ All three proposed functions are exposed as LLM-callable tools:
 
 ## Model Selection
 
-OpenAI API using `gpt-4o-mini` with native Function Calling capabilities via the official Python `openai` SDK.
+OpenRouter API using `gpt-5.6-luna` via the OpenAI-compatible Python `openai` SDK with native Function Calling support.
 
 ## Architecture
 
