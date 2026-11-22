@@ -34,3 +34,8 @@
 
 - Implement the three core Python tool functions (`get_order_status`, `search_faq`, `create_support_ticket`) in `src/tools.py` backed by the JSON datasets and Pydantic schemas.
 - Define OpenAI-compatible JSON Schema tool specifications for LLM function calling.
+
+## Important Commits
+
+- Commit hash: `7c8b7f2`
+- Description: Add mock JSON datasets (orders, FAQ, tickets) and Pydantic validation schemas for Week 12.
