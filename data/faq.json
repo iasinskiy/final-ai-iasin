@@ -1,0 +1,37 @@
+[
+  {
+    "id": "FAQ-01",
+    "category": "returns",
+    "question": "What is your return policy?",
+    "answer": "You can return most new, unopened items within 30 days of delivery for a full refund. Opened electronics must be returned within 14 days in original packaging with all accessories and are subject to a 10% restocking fee if not defective.",
+    "keywords": ["return", "refund", "opened", "package", "days", "policy", "money back"]
+  },
+  {
+    "id": "FAQ-02",
+    "category": "shipping",
+    "question": "How long does standard and express shipping take?",
+    "answer": "Standard shipping takes 3-5 business days and is free on orders over $50. Express shipping takes 1-2 business days for a flat fee of $15.",
+    "keywords": ["shipping", "delivery", "time", "how long", "express", "standard", "cost"]
+  },
+  {
+    "id": "FAQ-03",
+    "category": "warranty",
+    "question": "Do electronics come with a warranty?",
+    "answer": "All laptops, headphones, and peripherals include a 1-year manufacturer warranty covering hardware defects. Accidental damage is not covered unless Extended Care was purchased.",
+    "keywords": ["warranty", "broken", "defect", "repair", "damaged", "guarantee"]
+  },
+  {
+    "id": "FAQ-04",
+    "category": "cancellation",
+    "question": "Can I cancel or modify my order?",
+    "answer": "Orders can be cancelled or modified free of charge while their status is 'processing'. Once an order status changes to 'shipped', it cannot be cancelled and must go through the return process after delivery.",
+    "keywords": ["cancel", "modify", "change", "order", "stop"]
+  },
+  {
+    "id": "FAQ-05",
+    "category": "payment",
+    "question": "What payment methods do you accept?",
+    "answer": "We accept Visa, Mastercard, American Express, PayPal, and Apple Pay. Refunds are issued back to the original payment method within 3-5 business days.",
+    "keywords": ["payment", "pay", "card", "paypal", "refund time"]
+  }
+]

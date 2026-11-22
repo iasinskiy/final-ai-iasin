@@ -1,0 +1,33 @@
+{
+  "ORD-1001": {
+    "order_id": "ORD-1001",
+    "user_id": "USR-501",
+    "status": "shipped",
+    "tracking_number": "TRK-98451203",
+    "items": [
+      { "name": "ProBook Ultra 15 Laptop", "quantity": 1, "price": 1299.00 }
+    ],
+    "estimated_delivery": "2026-11-25"
+  },
+  "ORD-1002": {
+    "order_id": "ORD-1002",
+    "user_id": "USR-502",
+    "status": "delivered",
+    "tracking_number": "TRK-77340192",
+    "items": [
+      { "name": "Wireless Noise-Cancelling Headphones", "quantity": 1, "price": 249.50 },
+      { "name": "USB-C Braided Cable", "quantity": 2, "price": 19.99 }
+    ],
+    "estimated_delivery": "2026-11-18"
+  },
+  "ORD-1003": {
+    "order_id": "ORD-1003",
+    "user_id": "USR-503",
+    "status": "processing",
+    "tracking_number": null,
+    "items": [
+      { "name": "Mechanical Gaming Keyboard", "quantity": 1, "price": 135.00 }
+    ],
+    "estimated_delivery": "2026-11-28"
+  }
+}
